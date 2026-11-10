@@ -77,14 +77,14 @@
   "home_name": "DailyLuck Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#000000",
-  "secondary_background": "#16191f",
-  "button_background": "#00bda0",
+  "main_background": "#171023",
+  "secondary_background": "#211c52",
+  "button_background": "#de9f44",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#00bda0",
+  "cta_background": "#de9f44",
   "logo": {
     "url": "/uploads/dailyluck-logo.webp"
   },
@@ -98,12 +98,6 @@
     {
       "link": "/play/",
       "label": "Bonuses",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Games",
       "submenu": [],
       "openInNewTab": false
     },
@@ -124,6 +118,12 @@
       "label": "Slots",
       "submenu": [],
       "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Withdrawal",
+      "submenu": [],
+      "openInNewTab": false
     }
   ],
   "footer_menu": [
@@ -136,12 +136,6 @@
     {
       "link": "/play/",
       "label": "Contact",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Privacy policies",
       "submenu": [],
       "openInNewTab": false
     },
@@ -168,58 +162,58 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "/uploads/672a04bafac82bac397c4e5bb773a89f.webp",
-      "name": "Big Bass Bonanza",
-      "Name": "Big Bass Bonanza",
-      "logo_alt": "Big Bass Bonanza"
+      "logo": "/uploads/d99b1646423fe3e7d2b78855e7d9423a.webp",
+      "name": "3FortunePots",
+      "Name": "3FortunePots",
+      "logo_alt": "3fortunepots"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
-      "name": "Penalty Shoot",
-      "Name": "Penalty Shoot",
-      "logo_alt": "Penalty Shoot"
+      "logo": "/uploads/aa671f2972c1be72c3cf533d48ae71f0.webp",
+      "name": "Sweet Bonanza Dice",
+      "Name": "Sweet Bonanza Dice",
+      "logo_alt": "sweet bonanza dice"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
-      "name": "Big Bass Splash",
-      "Name": "Big Bass Splash",
-      "logo_alt": "big bass splash"
+      "logo": "/uploads/6d947639dc178568b5f2352d5797a08c.webp",
+      "name": "Wild Spin",
+      "Name": "Wild Spin",
+      "logo_alt": "wild spin"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/266f409efeba053bbeb20e8ae5943918.webp",
-      "name": "Sea of Spirits",
-      "Name": "Sea of Spirits",
-      "logo_alt": "sea of spirits"
+      "logo": "/uploads/25daedf6b4aef875ccf8367c89120d06.webp",
+      "name": "Santas Wonderland",
+      "Name": "Santas Wonderland",
+      "logo_alt": "santas wonderland"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
-      "name": "Stormforged",
-      "Name": "Stormforged",
-      "logo_alt": "stormforged"
+      "logo": "/uploads/70515c2c284155bd77b70fbf7da5f44d.webp",
+      "name": "Aviatrix",
+      "Name": "Aviatrix",
+      "logo_alt": "Aviatrix"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "Crypto Bonus 100% up to 200 USDT",
-      "Name": "Crypto Bonus 100% up to 200 USDT"
+      "logo": "/uploads/c3d34f35a05dfb63e29f2e0393c34613.webp",
+      "name": "Monday Cashback 10%",
+      "Name": "Monday Cashback 10%"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "Sport Bonus 100% deposit up to £100",
-      "Name": "Sport Bonus 100% deposit up to £100"
+      "logo": "/uploads/d7412f5a54360e0dea0e3c2f1f15fc42.webp",
+      "name": "Weekly Reload 50% up to £150",
+      "Name": "Weekly Reload 50% up to £150"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "Welcome Bonus 430% up to £15,000 + 550 FS",
-      "Name": "Welcome Bonus 430% up to £15,000 + 550 FS"
+      "logo": "/uploads/450099aa7fc2b4648ed08d1fbfe798f9.webp",
+      "name": "Welcome Bonus 150% up to £1,000 + 100 FS",
+      "Name": "Welcome Bonus 150% up to £1,000 + 100 FS"
     }
   ],
   "Reviews": null,
@@ -245,8 +239,8 @@
       "question": "What is the minimum withdrawal limit at DailyLuck Casino?"
     }
   ],
-  "_generated_at": "2026-11-10T13:53:21.552Z",
+  "_generated_at": "2026-11-10T14:04:47.842Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-10T13:53:26.703Z",
-  "_deploy_trigger": "32n7s"
+  "_last_deploy": "2026-11-10T14:04:48.528Z",
+  "_deploy_trigger": "49ystm"
 }
