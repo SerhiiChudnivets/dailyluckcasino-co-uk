@@ -157,6 +157,11 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
+    },
+    {
+      "link": "https://www.gamcare.org.uk/",
+      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
+      "image_alt": "gamcare"
     }
   ],
   "Slots": [
@@ -239,8 +244,8 @@
       "question": "What is the minimum withdrawal limit at DailyLuck Casino?"
     }
   ],
-  "_generated_at": "2026-11-10T14:04:47.842Z",
+  "_generated_at": "2026-11-10T14:11:33.664Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-10T14:04:48.528Z",
-  "_deploy_trigger": "49ystm"
+  "_last_deploy": "2026-11-10T14:11:34.608Z",
+  "_deploy_trigger": "jbe1v"
 }
