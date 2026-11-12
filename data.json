@@ -1,11 +1,11 @@
 {
   "name": "dailyluckcasino.co.uk",
   "site_name": "DailyLuck Casino – Play & Win Bonus Up to £1,000 + 100 FS",
-  "html_head": "<link rel=\"canonical\" href=\"https://dailyluckcasino.co.uk/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"DailyLuck Casino – Play & Win Bonus Up to £1,000\">\n<meta property=\"og:description\" content=\"Dive into the ultimate UK gaming experience at DailyLuck Casino! Explore top-rated slots, live dealer tables, fast payments, and claim your exclusive 150 free spins today.\">\n<meta property=\"og:url\" content=\"https://dailyluckcasino.co.uk/\">\n<meta property=\"og:site_name\" content= \"DailyLuck Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"DailyLuck Casino – Play & Win Bonus Up to £1,000\">\n<meta name=\"twitter:description\" content=\"Dive into the ultimate UK gaming experience at DailyLuck Casino! Explore top-rated slots, live dealer tables, fast payments, and claim your exclusive 150 free spins today.\">",
+  "html_head": "<meta name=\"google-site-verification\" content=\"2MtHy_0mKb1bgLc4xeCq4jVxgj8yVfdu30fMlfGaQxM\" />\n<link rel=\"canonical\" href=\"https://dailyluckcasino.co.uk/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"DailyLuck Casino – Play & Win Bonus Up to £1,000\">\n<meta property=\"og:description\" content=\"Dive into the ultimate UK gaming experience at DailyLuck Casino! Explore top-rated slots, live dealer tables, fast payments, and claim your exclusive 150 free spins today.\">\n<meta property=\"og:url\" content=\"https://dailyluckcasino.co.uk/\">\n<meta property=\"og:site_name\" content= \"DailyLuck Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"DailyLuck Casino – Play & Win Bonus Up to £1,000\">\n<meta name=\"twitter:description\" content=\"Dive into the ultimate UK gaming experience at DailyLuck Casino! Explore top-rated slots, live dealer tables, fast payments, and claim your exclusive 150 free spins today.\">",
   "url": "dailyluckcasino.co.uk",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": false,
@@ -244,8 +244,8 @@
       "question": "What is the minimum withdrawal limit at DailyLuck Casino?"
     }
   ],
-  "_generated_at": "2026-11-11T10:12:47.815Z",
+  "_generated_at": "2026-11-12T14:03:33.617Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-11T10:12:48.465Z",
-  "_deploy_trigger": "shqbr"
+  "_last_deploy": "2026-11-12T14:03:34.429Z",
+  "_deploy_trigger": "ihwlz"
 }
