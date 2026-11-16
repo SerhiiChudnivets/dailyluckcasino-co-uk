@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /trackback/
+Disallow: /play/*
+
+Sitemap: https://dailyluckcasino.co.uk/sitemap.xml
